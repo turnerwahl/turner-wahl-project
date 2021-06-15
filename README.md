@@ -6,11 +6,11 @@ Azure network and security info
 
 The files in this repository were used to configure the network depicted below.
 
-(Diagrams/Cloud_Diagram.jpg)
+[Cloud Diagram](Diagrams/Cloud_Diagram.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
-(Ansible/Elk_Playbook.yml)
+[ELK Setup Playbook](Ansible/Elk_Playbook.yml)
 
 This document contains the following details:
 - Description of the Topology
